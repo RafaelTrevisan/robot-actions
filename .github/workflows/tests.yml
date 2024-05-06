@@ -50,7 +50,7 @@ jobs:
         name: Test report
         path: logs
 
- firefox:
+  firefox:
 
     runs-on: ubuntu-latest
 
